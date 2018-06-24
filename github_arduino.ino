@@ -4,6 +4,7 @@ int led =2; // D1 onboard led
 void setup() {
   // put your setup code here, to run once:
   pinMode(led,OUTPUT);
+  // 1
 }
 
 void loop() {
