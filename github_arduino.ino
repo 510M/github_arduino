@@ -5,6 +5,7 @@ void setup() {
   // put your setup code here, to run once:
   pinMode(led,OUTPUT);
   // 1
+  // 2
 }
 
 void loop() {
